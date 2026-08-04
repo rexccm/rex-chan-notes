@@ -4,6 +4,24 @@ export default function Learning() {
     return (
         <>
             <h2>Learning Notes</h2>
+            <p>The inscription on washing basin of King Tang (湯) of Shang says: "If you can renew yourself for one day, do so day by day, and keep renewing yourself day after day."</p>
+            <section>
+                <h3>Learn by Your Own Experience</h3>
+                <p>"Person who is good at archery learns from the bow but not from Master Yi (羿); person who is good at boating learns from the boat but not from Master Ao (奡); person who is good at the mind learns from the mind but not from the sages.", Daoist philosopher Guanyinzi (關尹子) said.</p>
+                <p>"In making a wheel, if you do it too fast, the mortise and tenon will be too loose and the wheel won't be firm; if you action is too slow, the mortise and tenon will be too taut and won't be put in. It should be not too fast and not too slow, not too loose and not too taut. The ingenuity of the craftsmanship is not inexpressible in words, but can only be sensed by insight, this is where the subtlety lies, I cannot teach my son this skill and my son cannot receive it from me either. Those ancients have passed a way and those things that could not be taught are also gone. So what is left must be nothing but dross.", the Wheelwright Bian (輪扁) expained to Duke Huan of Qi. </p>
+                <p>Chinese philosopher Confucius said, "Is it not pleasant to learn with a constant perseverance and application? "</p>
+                <p>"There was a time when I would find one thing to practice every day—for example, today I’m going to practice my lines, today I’m going to add something into this scene, today I’m going to practice looking at the camera, today I’m going to practice estimating distances. When you arrive on set, the scripts are always garbage, so while acting, I would always give myself a small objective, a small assignment. Until one day you encounter a good play, and you are ready to perform, bringing together all the skills you practiced previously.", Hong Kong actor Anthony Wong said.</p>
+                <p>A cognitive psychology book <em>Make It Stick</em> pointed out: </p>
+                <article>
+                    <p>All new learning requires a foundation of prior knowledge. </p>
+                    <p>People who learn to extract the key ideas from new material and organize them into a mental model to prior knowledge show an advantage in learning complex mastery. </p>
+                    <p>Reflection can involve several cognitive activities that lead to stronger learning: retrieving knowledge and earlier training from memory, connecting these to new experience, and visualizing and mentally rehearsing what you might do differently next time. </p>
+                    <p>Mastery in any field is a gradual accretion of knowledge, conceptual understanding, judgment, and skill. These are the fruits of variety in the practice of new skills, and of striving, reflection, and mental rehearsal. Mastery requires both the possession of ready knowledge and the conceptual understanding of how to use it.</p>
+                    <p>One of the most striking research findings is the power of active retrieval — testing — to strengthen memory, and that the more effortful the retrieval, the stronger the benefit. </p>
+                    <p>The act of retrieving learning from memory has two profound benefits. One, it tells you what you know and don't know, and therefore where to focus further study to improve the areas where you're weak. Two, recalling what you have learned causes your brain to reconsolidate the memory, which strengthens its connections to what you already know and makes it easier for you to recall in the future. </p>
+                </article>
+            </section>
+            <p></p>
             <Link 
                 href="/"
             >
