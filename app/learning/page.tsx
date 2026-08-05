@@ -22,8 +22,8 @@ export default function Learning() {
                     <p>One of the most striking research findings is the power of active retrieval — testing — to strengthen memory, and that the more effortful the retrieval, the stronger the benefit. </p>
                     <p>The act of retrieving learning from memory has two profound benefits. One, it tells you what you know and don't know, and therefore where to focus further study to improve the areas where you're weak. Two, recalling what you have learned causes your brain to reconsolidate the memory, which strengthens its connections to what you already know and makes it easier for you to recall in the future. </p>
                 </article>
+                <p>"But in flow there is no room for self-scrutiny. Because enjoyable activities have clear goals, stable rules, and challenges well matched to skills, there is little opportunity for the self to be threatened.", the psychology book <em>Flow</em> wrote.</p>
             </section>
-            <p></p>
             <Link 
                 href="/"
             >
