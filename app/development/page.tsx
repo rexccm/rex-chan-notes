@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Development() { 
     return ( 
         <>
-            <h2>Principles of Software Development</h2>
+            <h2>Software Development</h2>
             <Link 
                 href="/"
             >

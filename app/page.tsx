@@ -30,6 +30,11 @@ export default function Home() {
             Learning
           </Link>
           <Link 
+            href="development" 
+          >
+            Development
+          </Link>
+          <Link 
             href="animation"
           >
             Animation
@@ -40,9 +45,9 @@ export default function Home() {
             Design
           </Link>
           <Link 
-            href="development" 
+            href="management"
           >
-            Development
+            Management
           </Link>
         </div>
         <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">

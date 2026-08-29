@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Design() { 
     return ( 
         <>
-            <h2>Principles of Design</h2>
+            <h2>Design</h2>
             <Link 
                 href="/"
             >

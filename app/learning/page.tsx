@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Learning() { 
     return (
         <>
-            <h2>Principles of Learning</h2>
+            <h2>Learning</h2>
             <p>The inscription on washing basin of King Tang (湯) of Shang says: "If you can renew yourself for one day, do so day by day, and keep renewing yourself day after day."</p>
             <section>
                 <h3>Learn by Your Own Experience</h3>

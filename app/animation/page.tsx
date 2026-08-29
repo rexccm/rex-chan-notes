@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Animation() {
     return ( 
         <>
-            <h2>Principles of Animation</h2>
+            <h2>Animation</h2>
             <section>
                 <h3>Tweening</h3>
                 <p>"By increasing the number of inbetweens, the movement will become much smoother and more fluid. The golden rule of animation is determine the exact middle drawing (breakdown) first. This is the basic of basics for all animation. The quality of this middle drawing determines the success of the entire inbetween sequence. Keep splitting themby finding the middle, then the next middle.", Japanese animator Yasuo Muroi (室井康雄) said.</p>
