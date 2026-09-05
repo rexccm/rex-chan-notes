@@ -30,9 +30,9 @@ export default function Home() {
             Learning
           </Link>
           <Link 
-            href="development" 
+            href="frontend" 
           >
-            Development
+            Frontend
           </Link>
           <Link 
             href="animation"
