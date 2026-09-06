@@ -7,7 +7,7 @@ export default function BusinessAdministration() {
             <section className="management">
                 <h3>Management</h3>
                 <p>"Formal organization is the kind of cooperation that is conscious, deliberate, purposeful. The function of the executive are those of control, management, supervision, administration, in formal organizations. These functions are exercised not merely by high officials in such organizations but by all those who are in positions of control of whatever degree. ", American management theorist Chester Barnard mentioned in <em>The Functions of Executive</em>. </p>
-                <p>Management is the process of guiding the corporate development by the following four key functional areas to achieve organizational goals efficiently and effectively.</p>
+                <p>Management is the process of guiding the corporate development by the POLC framework to achieve organizational goals efficiently and effectively.</p>
                 <ul>
                     <li><strong>Planning: </strong>Anticipating potential opportunities and challenges and designning a plan to deal with them.</li>
                     <li><strong>Organizing: </strong>Coordinating and allocating resources required to implement the plan.</li>
