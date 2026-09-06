@@ -45,9 +45,9 @@ export default function Home() {
             Design
           </Link>
           <Link 
-            href="management"
+            href="business-administration"
           >
-            Management
+            Business Administration
           </Link>
         </div>
         <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">

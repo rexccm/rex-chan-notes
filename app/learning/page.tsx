@@ -26,11 +26,11 @@ export default function Learning() {
             </section>
             <section>
                 <h3>Apprenticeship Model</h3>
-                <p>The apprenticeship model is the journey toward mastery through guided experience and practice under the supervision of a skilled mentor and becoming a master with the ability to teach others since medieval period.</p>
+                <p>The apprenticeship model is the journey toward mastery through guided experience and practice under the supervision of a skilled mentor and becoming a master with the ability to teach others since the medieval period.</p>
                 <ul>
                     <li><strong>Apprentice: </strong>The apprenticeship period is a wonderful time to learn skills and gain hands-on experience under the guidance of a master.</li>
                     <li><strong>Journeyman: </strong>After graduating from apprenticeship, the individual becomes a journeyman who travels from place to place aiming to continue developing their skills and gain experience from other masters.</li>
-                    <li><strong>Master: </strong>After passing the guild examination of masterpiece, the individual demonstrates expertise and achieves the status of master continue to learn by teaching apprentices and shifting paradigm by innovation after they have gained extensive experience.</li>
+                    <li><strong>Master: </strong>After passing the guild examination of masterpiece, the individual demonstrates expertise and achieves the status of master continuing to learn by teaching apprentices and shifting paradigm by innovation after they have gained extensive experience.</li>
                 </ul>
             </section>
             <Link 
