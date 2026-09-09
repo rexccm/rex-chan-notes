@@ -1,9 +1,9 @@
 import Link from "next/link"; 
 
-export default function BusinessAdministration() { 
+export default function ManagementAndGovernance() { 
     return (
         <>
-            <h2>Business Administration</h2>
+            <h2>Management and Governance</h2>
             <section className="management">
                 <h3>Management</h3>
                 <p>"Formal organization is the kind of cooperation that is conscious, deliberate, purposeful. The function of the executive are those of control, management, supervision, administration, in formal organizations. These functions are exercised not merely by high officials in such organizations but by all those who are in positions of control of whatever degree. ", American management theorist Chester Barnard mentioned in <em>The Functions of Executive</em>. </p>

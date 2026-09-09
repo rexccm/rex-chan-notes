@@ -45,9 +45,14 @@ export default function Home() {
             Design
           </Link>
           <Link 
-            href="business-administration"
+            href="marketing"
           >
-            Business Administration
+            Marketing
+          </Link>
+          <Link 
+            href="management-and-governance"
+          >
+            Management and Governance
           </Link>
         </div>
         <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
